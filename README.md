@@ -38,4 +38,4 @@ A diferença fundamental entre a manutenção preditiva e outras abordagens (com
 
 
 
-Thanks God!
+Thanks God 🤗!
