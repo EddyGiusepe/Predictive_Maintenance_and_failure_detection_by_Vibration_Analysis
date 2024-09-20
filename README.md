@@ -1,0 +1,1 @@
+# Predictive_Maintenance_and_failure_detection_by_Vibration_Analysis
