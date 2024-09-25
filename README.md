@@ -2,6 +2,9 @@
 
 Senior Data Scientist.: Dr. Eddy Giusepe Chirinos Isidro
 
+
+![](https://i.ytimg.com/vi/K1Vnyts3DRE/maxresdefault.jpg)
+
 ## Contextualizando
 
 Manutenção preditiva é uma estratégia que visa prever falhas em equipamentos antes que elas aconteçam, utilizando dados de monitoramento contínuo ou periódico. A ideia é maximizar a vida útil dos equipamentos, evitando falhas inesperadas e minimizando os custos de manutenção.
@@ -12,11 +15,6 @@ A diferença fundamental entre a manutenção preditiva e outras abordagens (com
 
 
 ![image](https://github.com/user-attachments/assets/9f5efba7-538c-4295-b7b8-8b8fdb63cff2)
-
-
-
-
-
 
 
 
